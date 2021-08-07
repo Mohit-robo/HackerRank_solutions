@@ -1,1 +1,3 @@
-# Python_Practise
+I will be posting my Python Practise Programs in this Repository ....
+I have referred various practise websites and I will be trying to post 2 solutions for every problem..
+
