@@ -1,10 +1,7 @@
-I will be posting my Python Practise Programs in this Repository ....
-I have referred various practise websites and I will be trying to post 2 solutions for every problem..
+This repo contains solutions to Problem statements from Hackerrank mostly and from some other bolgs
+Most of the problems have 2 solutions.
 
 To clone this repository....
 
-Linux ...
-git clone https://github.com/Mohit-robo/Python_Practise.git
+    git clone https://github.com/Mohit-robo/Python_Practise.git
 
-Windows ....
-wget https://github.com/Mohit-robo/Python_Practise.git
